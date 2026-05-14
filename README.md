@@ -1,4 +1,4 @@
-# wp-pt-br-translation-review
+# Skill de tradução para conteúdo WordPress(wp-pt-br-translation-review)
 
 Skill para traduzir e revisar conteúdo do ecossistema WordPress para português do Brasil, com foco em posts do Make WordPress, WordPress Core, Docs, AI, strings de plugins e temas, GlotPress, PO/POT, handbooks, releases e comunicados da comunidade.
 
@@ -67,12 +67,3 @@ A skill usa fontes ao vivo quando disponíveis e mantém um resumo compacto em `
 * Snapshot CSV do glossário pt-BR em `references/pt-br-glossary.csv`
 * Boas práticas brasileiras de tradução
 * Plugin Internationalization Handbook
-
-## Evals
-
-Os prompts de avaliação ficam em `evals/evals.json` e cobrem posts reais do Make WordPress e um cenário de tradução de plugin:
-
-* AI 0.9.0
-* Extensão do ciclo da versão 7.0
-* Fluxo responsável de IA para documentação do WordPress 6.9
-* Tradução/revisão de strings de plugin com placeholders, contexto e plurais
