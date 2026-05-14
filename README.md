@@ -22,6 +22,8 @@ wp-pt-br-translation-review/
 ├── evals/
 │   └── evals.json
 └── references/
+    ├── pt-br-glossary.csv
+    ├── pt-br-glossary.md
     ├── wordpress-plugin-i18n.md
     └── wordpress-pt-br-translation.md
 ```
@@ -62,6 +64,7 @@ A skill usa fontes ao vivo quando disponíveis e mantém um resumo compacto em `
 * Writing Tips do time de documentação
 * Relatório do projeto GSoD 2020 sobre o style guide
 * Glossário pt-BR do translate.wordpress.org
+* Snapshot CSV do glossário pt-BR em `references/pt-br-glossary.csv`
 * Boas práticas brasileiras de tradução
 * Plugin Internationalization Handbook
 

@@ -10,6 +10,7 @@ This is a compact fallback reference for translating and reviewing plugin/theme 
 - Internationalization Security: https://developer.wordpress.org/plugins/internationalization/security/
 - Localization: https://developer.wordpress.org/plugins/internationalization/localization/
 - pt-BR glossary: https://translate.wordpress.org/locale/pt-br/default/glossary/
+- Bundled pt-BR glossary snapshot: `pt-br-glossary.csv` (see `pt-br-glossary.md`)
 
 ## When the Input is Plugin Translation Work
 
@@ -36,7 +37,7 @@ Treat these as plugin/theme translation tasks:
 - Avoid gender-specific phrasing when a neutral construction is natural. Example: "Thank you for your help." -> "Agradecemos a ajuda."
 - For dates in plugin/theme format strings, prefer Brazilian formats from the local guide when the source is a date format string, e.g. `j \d\e F \d\e Y`, `d/m/Y`, `H:i`, or `H:i:s` when appropriate.
 - For numbers in visible text, use pt-BR punctuation conventions when translating examples: `1.500`, `1,5`.
-- Use the live locale glossary and any project glossary. If context requires ignoring a glossary term, explain why.
+- Use the live locale glossary and any project glossary. If live lookup is unavailable, use `pt-br-glossary.csv` as the fallback locale glossary. If context requires ignoring a glossary term, explain why.
 
 ## PO/POT Handling
 

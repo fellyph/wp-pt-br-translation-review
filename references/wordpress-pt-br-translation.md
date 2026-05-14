@@ -9,13 +9,14 @@ This is a compact fallback reference. Live source links remain authoritative.
 - Writing Tips: https://make.wordpress.org/docs/handbook/get-involved/writing-tips/
 - GSoD 2020 style guide report: https://make.wordpress.org/docs/2021/03/07/wordpress-documentation-style-guide-google-season-of-docs-2020-project-report-tacitonic/
 - pt-BR glossary: https://translate.wordpress.org/locale/pt-br/default/glossary/
+- Bundled pt-BR glossary snapshot: `pt-br-glossary.csv` (see `pt-br-glossary.md`)
 - Brazilian translation best practices: https://br.wordpress.org/team/handbook/traducao/boas-praticas/
 - Plugin Internationalization Handbook: https://developer.wordpress.org/plugins/internationalization/
 
 ## Decision Hierarchy
 
 1. Keep the source post authoritative for facts, structure, dates, links, code, names, and scope.
-2. Use the pt-BR glossary and Brazilian translation best practices for terminology and localization.
+2. Use the live pt-BR glossary and Brazilian translation best practices for terminology and localization. If live lookup is unavailable, use `pt-br-glossary.csv` as a fallback snapshot.
 3. Use the WordPress Documentation Style Guide for writing quality: clarity, consistency, style, tone, inclusivity, and global-audience guidance.
 4. For plugin/theme strings, use the Plugin Internationalization Handbook for gettext, text domains, placeholders, plurals, context, PO/POT/MO handling, and i18n security.
 5. Use external style references only when the WordPress sources do not answer the issue.
@@ -75,7 +76,7 @@ If a target URL is unavailable or resolves to an archive page, locate the matchi
 
 ## Glossary Handling
 
-Always check the live glossary when tools allow it. Use this fallback only when live lookup is unavailable.
+Always check the live glossary when tools allow it. Use `pt-br-glossary.csv` only when live lookup is unavailable or when a quick offline lookup is enough. See `pt-br-glossary.md` for lookup and update guidance.
 
 Glossary entries observed in the source page snapshot:
 

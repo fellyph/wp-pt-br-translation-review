@@ -1,0 +1,692 @@
+en,pt-br,pos,description
+ability,habilidade,noun,
+accordion,sanfona,noun,"Também ""tipo sanfona"" ou ""sanfonado"", no caso de ""accordion-style"", por ex."
+"Action links","Links de ações",noun,
+activate,ativar,verb,
+Add-on,complemento,noun,
+add-on,complemento,noun,
+added,adicionado,verb,
+Addon,complemento,noun,
+addon,complemento,noun,
+address,corrige,verb,"Ex. “version x addresses…” – “a versão x corrige…”"
+address,endereço,noun,
+"Afghan Afghani","Afegane afegão",noun,"Moeda do Afeganistão"
+Afghanistan,Afeganistão,noun,país
+"Aland Islands","Ilhas Aland",noun,região
+Albania,Albânia,noun,país
+"Albanian Lek","Lek albanês",noun,"Moeda da Albânia"
+Algeria,Argélia,noun,país
+"Algerian Dinar","Dinar argelino",noun,"Moeda da Argélia"
+"American Samoa","Samoa Americana",noun,região
+Andorra,Andorra,noun,país
+Angola,Angola,noun,país
+"Angolan Kwanza","Kwanza angolano",noun,"Moeda da Angola"
+Anguilla,Anguila,noun,região
+Antarctica,Antártida,noun,continente
+"Antigua and Barbuda","Antígua e Barbuda",noun,país
+April,abril,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""abr"""
+"are you sure you want","tem certeza de que deseja",expression,
+Argentina,Argentina,noun,país
+"Argentine Peso","Peso argentino",noun,"Moeda da Argentina"
+Armenia,Armênia,noun,país
+"Armenian Dram","Dram armênio",noun,"Moeda da Armênia"
+array,array,noun,"Termo de programação, não traduzir"
+Aruba,Aruba,noun,país
+"Aruban Florin","Florim arubano",noun,"Moeda de Aruba"
+aside,nota,noun,"Post format - formato de post"
+"At a glance",Agora,expression,"Traduzir sempre como ""Agora"" quando se referir ao widget do Painel."
+"at the bottom","na parte inferior",expression,
+"at the top","na parte superior",expression,
+attachment,anexo,noun,
+August,agosto,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""ago"""
+Australia,Austrália,noun,país
+"Australian Dollar","Dólar australiano",noun,"Moeda da Comunidade da Austrália"
+Austria,Áustria,noun,país
+Azerbaijan,Azerbaijão,noun,país
+"Azerbaijani Manat","Manate azerbaijano",noun,"Moeda do Azerbaijão"
+backend,painel,noun,"No contexto do WordPress, quando se refere à seção de administração do site"
+background,"plano de fundo",noun,"Se for preciso encurtar use apenas ""fundo"""
+backup,backup,noun," Masculino"
+backup,"fazer backup",verb,
+Bahamas,Bahamas,noun,país
+"Bahamian Dollar","Dólar bahamense",noun,"Moeda das Bahamas"
+Bahrain,Barém,noun,país
+"Bahraini Dinar","Dinar bareinita",noun,"Moeda do Barém"
+Bangladesh,Bangladesh,noun,país
+"Bangladeshi Taka","Taka bengali",noun,"Moeda de Bangladesh"
+banner,banner,noun,
+"Barbadian Dollar","Dólar barbadense",noun,"Moeda de Barbados"
+Barbados,Barbados,noun,país
+batch,lote,noun,
+batch,"em lote",adjective,
+Belarus,Bielorrússia,noun,país
+"Belarusian Ruble","Rublo bielorrusso",noun,"Moeda da Bielorrússia"
+Belgium,Bélgica,noun,país
+Belize,Belize,noun,país
+"Belize Dollar","Dólar belizenho",noun,"Moeda de Belize"
+Benin,Benim,noun,país
+Bermuda,Bermudas,noun,região
+"Bermudian Dollar","Dólar bermudense",noun,"Moeda do Território Ultramarino Britânico das Bermudas"
+Bhutan,Butão,noun,país
+"Bhutanese Ngultrum","Ngultrum butanês",noun,"Moeda do Butão"
+bitrate,"taxa de bits",noun,
+blacklist,"lista de bloqueios",noun,
+Block,Bloco,noun,Gutenberg
+"Block Editor","Editor de blocos",noun,"Evitar sempre que possível também o nome ""Gutenberg"", agora deve sempre ser chamado de ""Editor de blocos""."
+blocklist,"lista de bloqueios",noun,
+blog,blog,noun,
+blogroll,"lista de links",noun,
+BOGO,"""compre um, ganhe outro""",noun,"Tipo de promoção: ""pague um, leve dois"""
+Bolivia,Bolívia,noun,país
+"Bolivian Boliviano",Boliviano,noun,"Moeda da Bolívia"
+"Bonaire, Saint Eustatius and Saba","Bonaire, Santo Eustáquio e Saba",noun,região
+"border color and style picker","seletor de cor e estilo de borda",noun,"Elemento de interface."
+Bosnia,Bósnia,noun,país
+"Bosnia and Herzegovina","Bósnia e Herzegovina",noun,país
+Botswana,Botsuana,noun,país
+"Botswana Pula","Pula botsuanesa",noun,"Moeda de Botsuana"
+Brazil,Brasil,noun,país
+"Brazilian Real","Real brasileiro",noun,"Moeda do Brasil"
+breadcrumb,"caminho de navegação",noun,
+browse,procurar,verb,"omitir nos casos onde a tradução exprime uma obviedade. Ex.: “You are currently browsing the archives for…” traduzir como: “Você está no arquivo do…”"
+browser,navegador,noun,
+Brunei,Brunei,noun,país
+"Brunei Dollar","Dólar bruneano",noun,"Moeda de Brunei"
+bug,erro,noun,
+Bug,erro,noun,
+bugfix,"correção de erros",noun,
+Bugfix,"correção de erros",noun,
+Bulgaria,Bulgária,noun,país
+"Bulgarian Lev","Lev búlgaro",noun,"Moeda da Bulgária"
+"Burkina Faso","Burkina Faso",noun,país
+"Burma; Myanmar",Myanmar,noun,país
+"Burmese Kyat",Quiate,noun,"Moeda de Mianmar"
+Burundi,Burundi,noun,país
+"Burundian Franc","Franco burundiano",noun,"Moeda do Burúndi"
+"by default","por padrão",expression,
+cache,cache,noun,"Não traduzir"
+callback,callback,noun,"Não traduzir"
+Cambodia,Camboja,noun,país
+Cameroon,Camarões,noun,país
+Canada,Canadá,noun,país
+"Canadian Dollar","Dólar canadense",noun,"Moeda do Canadá"
+Can’t,"não é possível",expression,
+cancel,cancelar,verb,
+"cannot view","não é possível ver",noun,
+capabilities,capacidades,noun,
+capability,capacidade,noun,
+"Cape Verde","Cabo Verde",noun,país
+"Cape Verdean escudo","Escudo cabo-verdiano",noun,"Moeda de Cabo Verde"
+"captioning ID","ID de legenda",expression,Masculino
+"Caribbean Netherlands","Países Baixos Caribenhos",noun,país
+"Cayman Islands Dollar","Dólar das Ilhas Cayman",noun,"Moeda das Ilhas Cayman"
+"Central African Republic","República Centro-africana",noun,país
+"CFA Franc","Franco CFA",noun,"Moeda de Camarões, República Centro Africana, Chade, República do Congo, Guiné Equatorial e Gabão."
+"CFP Franc","Franco CFP",noun,"Moeda de Polinésia Francesa, Nova Caledónia e Wallis e Futuna."
+Chad,Chade,noun,país
+changelog,"registro de alterações",noun,
+Changelog,"registro de alterações",noun,
+chat,bate-papo,noun,
+"cheating, uh?","Trapaceando, é?",expression,
+check,marcar,verb,"ou conferir ou verificar (conforme contexto)"
+"check box","caixa de seleção",noun,
+"check boxes","caixas de seleção",noun,
+"check out",consultar,expression,
+checkbox,"caixa de seleção",noun,
+checkboxes,"caixas de seleção",noun,
+checkout,"finalização de compra",noun,"no contexto de e-commerce"
+"child theme","tema descendente",expression,
+children,descendentes,noun,
+Chile,Chile,noun,país
+"Chilean Peso","Peso chileno",noun,"Moeda do Chile"
+China,China,noun,país
+"Chinese Yuan","Yuan chinês",noun,"Moeda da China"
+"Christmas Island","Ilha Christmas",noun,região
+clean,simples,adjective,"Ex: a clean theme, um tema simples."
+clear,limpar,verb,"Ou ""liberar"" conforme o contexto.
+
+Veja mais: https://br.wordpress.org/team/2021/06/19/mudancas-no-glossario/"
+closed,encerrado,adjective,
+collapse,recolher,verb,
+Colombia,Colômbia,noun,país
+"color picker","seletor de cor",expression,
+"coming soon","em breve",expression,
+"Coming soon","Em breve",expression,
+Comoros,Comores,noun,país
+complete,concluído,adjective,"Ou concluir, se for verbo"
+completed,concluído,adjective,
+compliance,conformidade,noun,
+"connect to x","conectar a x",expression,
+"Contact Us","Fale conosco",expression,
+"Contact us","Fale conosco",expression,
+"contact us","fale conosco",expression,
+container,contêiner,noun,
+contributor,colaborador,noun,
+"Convertible Mark","Marco conversível",noun,"Moeda da Bósnia e Herzegovina"
+core,"arquivos básicos",noun,
+"Costa Rica","Costa Rica",noun,país
+Costumizer,Personalizar,noun,"Nome da ferramenta, usar inicial maiúscula."
+"Could not","Não foi possível",noun,
+Couldn’t,"não foi possível",expression,
+Cover,Cobertura,noun,Gutenberg
+"Cover image","Imagem de capa",expression,Gutenberg
+Croatia,Croácia,noun,país
+crop,recortar,verb,
+Cuba,Cuba,noun,país
+Curacao,Curaçau,noun,país
+currently,"no momento",adverb,
+custom,personalizado,noun,
+"custom  post type","tipo de post personalizado",expression,
+customization,personalização,noun,
+Customize,Personalize,noun,
+customize,personalizar,noun,
+customizer,Personalizar,noun,"""Personalizar"" quando se referir à ferramenta do WP."
+Cyprus,Chipre,noun,país
+"Czech Republic","República Tcheca",noun,país
+database,"banco de dados",noun,
+deactivate,desativar,verb,
+debug,depurar,verb,"Derivados devem seguir a mesma tradução, ex: debugging (n) - depuração"
+December,dezembro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""dez"""
+default,padrão,adjective,"invariável -sem plural"
+default,padrão,noun,"usar Padrões quando o plural for necessário"
+delete,excluir,verb,
+Delete,excluir,verb,
+Deleted,excluído,adjective,
+deleted,excluído,verb,
+deleted,excluído,adjective,
+"Democratic Republic of the Congo","República Democrática do Congo",noun,país
+Denmark,Dinamarca,noun,país
+deprecated,obsoleto(a),adjective,
+design,design,noun,
+"development log","registro de desenvolvimento",noun,
+device,dispositivo,noun,
+disable,desativar,verb,
+dismiss,dispensar,verb,
+display,exibir,verb,
+display,exibição,noun,
+"distraction free","escrita sem distrações",expression,
+"distraction-free writing","escrita sem distrações",expression,
+Djibouti,Djibuti,noun,país
+Dominica,Dominica,noun,país
+"Dominican Republic","Dominicana, República",noun,país
+"don’t be stupid","não marque bobeira",expression,"não seja bobo"
+done,concluído,verb,
+download,baixar,noun,
+download,baixar,verb,
+draft,rascunho,noun,
+"drag and drop","arrastar e soltar",expression,
+"drag'n drop","arrastar e soltar",expression,
+drop-down,"menu suspenso",noun,"No contexto de interface de usuário."
+Drop-in,Avançado,noun,"No caso de plugins que são instalados automaticamente dentro do wp-content"
+dropdown,"menu suspenso",noun,"No contexto de interface de usuário."
+"East Timor","Timor Leste",noun,país
+ebook,e-book,noun,"Ou livro digital."
+Ebook,E-book,noun,"Ou livro digital."
+Ecuador,Equador,noun,país
+Egypt,Egito,noun,país
+"El Salvador","El Salvador",noun,país
+Elapsed,"tempo decorrido",noun,
+elapsed,"tempo decorrido",noun,
+Email,E-mail,noun,"Com hifen, academia brasileira de letras reconhece apenas desta forma."
+email,e-mail,noun,"Com hifen, academia brasileira de letras reconhece apenas desta forma."
+Embed,"Código incorporado",noun,Gutenberg
+embed,incorporar,verb,
+embedded,"(mídia) incorporada",expression,
+enable,ativar,verb,
+"end tag","tag de fechamento",noun,"Usado no contexto do código HTML. Contrasta com a tag de abertura. Consulte o documento ""Anatomia de um elemento HTML"" (https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content#anatomia_de_um_elemento_html)"
+endpoint,endpoint,noun,masculino
+England,Inglaterra,noun,país
+Ensure,Garantir,noun,
+enter,digite,verb,
+entry,post,noun," ou entrada conforme o contexto"
+"Equatorial Guinea","Guiné Equatorial",noun,país
+Erase,Remover,verb,"No contexto de remoção de dados, como as solicitações do GDPR."
+eraser,"autor da remoção",noun,"No contexto de remoção de dados, como as solicitações do GDPR."
+erasure,remoção,noun,"No contexto de remoção de dados, como as solicitações do GDPR."
+Eritrea,Eritreia,noun,país
+escaping,escaping,noun,"Termo de programação, não traduzir."
+Estonia,Estônia,noun,país
+Ethiopia,Etiópia,noun,país
+excerpt,resumo,noun,
+Excerpt,resumo,noun,
+fallback,contingência,noun,"""Contingência"" em um contexto de programação. Em um contexto exibido para o usuário final usar ""padrão""."
+FAQ,"Perguntas frequentes",expression,
+feature,recurso,noun,
+featured,"em destaque",adjective,
+"Featured image","Imagem destacada",expression,Gutenberg
+February,fevereiro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""fev"""
+"Federated States of Micronesia","Estados Federados da Micronésia",noun,país
+feedback,"comentário ou sugestão",noun,"Possibilidade de o usuário enviar uma crítica, comentário ou sugestão de melhoria. Escolha algum dos termos, se o espaço for reduzido."
+feeds,feeds,noun,
+fetch,coletar,verb,
+Fiji,Fiji,noun,país
+Finland,Finlândia,noun,país
+"first name",nome,noun,
+Fix,Correção,noun,"ou fixo, conforme contexto."
+fix,corrigir,verb,
+Fix,corrigir,verb,
+Fixed,Corrigido,verb,
+flip,virar,verb,
+follow-up,acompanhar,expression,
+font,fonte,noun,
+Fork,Bifurcação,noun,"Como definido pelo GitHub: https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo"
+Fork,Bifurcar,verb,"Como definido pelo GitHub: https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo"
+frame,frame,noun,
+framework,estrutura,noun,"Em alguns casos pode ser dispensado (""framework Redux"", por exemplo, pode ficar só ""Redux"")"
+France,França,noun,país
+"Frequently Asked Questions","perguntas frequentes",expression,
+freshness,"tempo desde a publicação",adjective,
+Friday,sexta-feira,noun,"dia de semana"
+front-end,interface,noun,"No contexto do WordPress, quando se refere à parte visível do site."
+frontend,interface,noun,"No contexto do WordPress, quando se refere à parte visível do site"
+"Full Site Editing","Edição completa do site",expression,"Colocar apenas a primeira letra em maiúsculo"
+fullscreen,"tela cheia",noun,
+Gabon,Gabão,noun,país
+Gallery,Galeria,noun,Gutenberg
+"Gambia, The",Gâmbia,noun,país
+gap,"espaço entre itens",noun,"Opção mais curta: ""espaço"""
+gatekeeper,guardião,noun,
+GDPR,GDPR,noun,"Masculino; Quando necessário especificar, utilizar como ""Regulamento geral de proteção de dados"""
+Georgia,Geórgia,noun,país
+Germany,Alemanha,noun,país
+Ghana,Gana,noun,país
+"global dashboard","painel geral",expression,
+gradient,gradiente,noun,
+Greece,Grécia,noun,país
+Grenada,Granada,noun,país
+grid,grade,noun,
+group,agrupar,verb,
+group,grupo,noun,
+Guatemala,Guatemala,noun,país
+Guinea,Guiné,noun,país
+Guinea-Bissau,Guiné-Bissau,noun,país
+Guyana,Guiana,noun,país
+Haiti,Haiti,noun,país
+header,cabeçalho,noun,
+"Header image","Imagem de cabeçalho",expression,Gutenberg
+Heading,Título,noun,Gutenberg
+health,condição,noun,
+"Health Check",Diagnóstico,expression,
+held,retido,verb,
+"help on","ajuda sobre",expression,
+"hidden Gui","GUI oculta",expression,
+hold,reter,verb,
+Holland,Holanda,noun,país
+homepage,"página inicial",noun,
+Honduras,Honduras,noun,país
+"hot tag","tag popular",expression,
+hotkeys,"teclas de acesso",expression,
+Hungary,Hungria,noun,país
+Iceland,Islândia,noun,país
+ID,ID,noun,masculino
+improved,melhorado,verb,
+index,índice,noun,
+India,Índia,noun,país
+Indonesia,Indonésia,noun,país
+"invoke URLs","chamar URLs",expression,
+"IP address","Endereço IP",expression,
+Iran,Irã,noun,país
+Iraq,Iraque,noun,país
+Ireland,Irlanda,noun,país
+Israel,Israel,noun,país
+Italy,Itália,noun,país
+"Ivory Coast; Côte d’Ivoire","Costa do Marfim",noun,país
+Jamaica,Jamaica,noun,país
+January,janeiro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""jan"""
+Japan,Japão,noun,país
+javascript,JavaScript,noun,"Escrever com maiúsculas e minúsculas alternadas, como é feito com ""WordPress"", pois esse é o nome oficial"
+Jordan,Jordânia,noun,país
+July,julho,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""jul"""
+June,junho,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""jun"""
+Kazakhstan,Cazaquistão,noun,país
+"keep in mind that","lembre-se de que",expression,
+"keep up to date","Receber atualizações",expression,
+Kenya,Quênia,noun,país
+"key master",admin-mestre,expression,
+keyword,palavra-chave,noun,
+keywords,palavras-chave,noun,
+Kiribati,Quiribáti,noun,país
+Kuwait,Kuaite,noun,país
+Kyrgyzstan,Quirguistão,noun,país
+label,rótulo,noun,
+language,idioma,noun,
+Laos,Laos,noun,país
+large,grande,adjective,
+"last name",sobrenome,noun,
+latest,"mais recentes",adjective,
+Latvia,Letônia,noun,país
+"lazy loading","carregamento tardio",noun,
+Lebanon,Líbano,noun,país
+Lesotho,Lesoto,noun,país
+Liberia,Libéria,noun,país
+Libya,Líbia,noun,país
+Liechtenstein,Liechtenstein,noun,país
+"link to","apontar para",verb,
+Lithuania,Lituânia,noun,país
+"Live Chat","Conversa ao vivo",expression,
+"live chat","conversa ao vivo",expression,
+"live preview","ver ao vivo",expression,
+locale,localização,noun,"Se possível, deixar em itálico, para mostrar que é uma palavra estrangeira, mas usada igual em pt_BR (significa uma região ou país que compartilha formatos, métricas, etc.)"
+log,registro,noun,"""Registro de eventos/atividades"" se couber no contexto e houver espaço, ou apenas ""Registro"""
+"log in",acessar,verb,
+"Log in",acessar,verb,
+"log out",sair,verb,
+logged,conectado,noun,"Porém log in - acessar e log out - sair."
+"logged out",desconectado,expression,"Porém log in - acessar e log out - sair."
+login,acessar,verb,"Ou também log in - acessar (e log out - sair)."
+Login,Acesso,noun,
+logo,logo,noun,"masculino (o logotipo)."
+loop,loop,noun," masculino"
+loop,"fazer loop",verb,
+Luxembourg,Luxemburgo,noun,país
+Macedonia,Macedônia,noun,país
+Madagascar,Madagascar,noun,país
+Malawi,Malawi,noun,país
+Malaysia,Malásia,noun,país
+Maldives,Maldivas,noun,país
+Mali,Máli,noun,país
+Malta,Malta,noun,país
+malware,malware,noun,masculino
+manage,gerenciar,verb,
+mapping,mapeamento,noun,
+mapping,mapeando,verb,
+March,março,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""mar"""
+"matching x","correspondente a x",expression,
+Mauritania,Mauritânia,noun,país
+"Mauritian Rupee","Rupia mauriciana",noun,"Moeda de Maurício"
+Mauritius,Maurício,noun,país
+May,maio,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. NUNCA ABREVIAR! Abreviação de ""maio"" é ""maio""."
+may,poder,verb,
+"media attachment",mídia,noun,
+medium,médio,adjective,
+medium,média,adjective,
+"meta field","campo do metadado",noun,"Também pode ser ""campo do meta"""
+"meta key","chave do metadado",noun,"Também pode ser ""chave do meta"""
+"meta value","valor do metadado",noun,"Também pode ser ""valor do meta"""
+metadata,metadados,noun,"traduzir no plural."
+Mexico,México,noun,país
+mobile,"dispositivo móvel",noun,
+moderate,moderar,verb,
+Moldova,Moldávia,noun,país
+Monaco,Mônaco,noun,país
+Monday,segunda-feira,noun,"dia de semana"
+Mongolia,Mongólia,noun,país
+Montenegro,Montenegro,noun,país
+Morocco,Marrocos,noun,país
+Mozambique,Moçambique,noun,país
+multisite,multisite,noun,
+Namibia,Namíbia,noun,país
+Nauru,Nauru,noun,país
+Nepal,Nepal,noun,país
+"Never show again","Não mostrar mais",expression,
+"New Zealand","Nova Zelândia",noun,país
+newest,"mais recente",adjective,
+Nicaragua,Nicarágua,noun,país
+nickname,apelido,noun,
+Niger,Níger,noun,país
+Nigeria,Nigéria,noun,país
+"no x found","nenhum x encontrado",expression,
+"North Korea","Coreia do Norte",noun,país
+Norway,Noruega,noun,país
+November,novembro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""nov"""
+October,outubro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""out"""
+offline,off-line,adjective,"com hífen, segundo a ABL"
+offset,compensação/compensar,noun,"dependendo do contexto: deslocamento/deslocar, equilíbrio/equilibrar, ignorar, diferença"
+Oman,Omã,noun,país
+on/off,ativado/desativado,adjective,
+online,on-line,adjective,"com hífen, segundo a ABL "
+Oops,Opa,expression,
+Outline,Estrutura,noun,"É preciso atentar-se ao contexto, caso se refira à visão geral de blocos da página, estrutura se enquadra melhor do que contorno, como as vezes acaba sendo traduzido."
+Pakistan,Paquistão,noun,país
+Palestine,Palestina,noun,país
+Panama,Panamá,noun,país
+"Papua New Guinea","Papua Nova Guiné",noun,país
+Paragraph,Parágrafo,noun,Gutenberg
+Paraguay,Paraguai,noun,país
+parent,ascendente,noun,"em substituição a pai/mãe"
+"parent category","categoria ascendente",noun,"alterado por votação na comunidade"
+"parent theme","tema ascendente",noun,"alterado por votação na comunidade"
+"password strength","nível de segurança da senha",noun,
+performance,desempenho,noun,
+permalink,"link permanente",noun,
+Permalink,"link permanente",noun,
+Peru,Peru,noun,país
+Philippines,Filipinas,noun,país
+pingback,pingback,noun,masculino
+pixel,pixel,noun,
+pixels,pixeis,noun,
+placeholder,"conteúdo de marcação",noun,"Verifique o contexto do plugin/tema! Você pode trocar “conteúdo” por texto, imagem, etc. Além disso, a expressão pode ter outros significados e precisar ser traduzida de outras formas."
+playback,reprodução,noun,
+Playback,reprodução,noun,
+player,reprodutor,noun,
+Player,reprodutor,noun,
+please,,noun,"não traduzir (não pedir por favor ao usuário)"
+Plugin,Plugin,noun,"sem hífen"
+plugin,plugin,noun,"sem hí­fen"
+Poland,Polônia,noun,país
+portfolio,portfólio,noun,
+Portugal,Portugal,noun,país
+post,post,noun,masculino
+post,publicar,verb,
+"post type","tipo de post",expression,
+"Post type","tipo de post",expression,
+"Poster image","Imagem do pôster",expression,Gutenberg
+prefetch,pré-carregar,verb,
+preview,pré-visualizar,verb,
+preview,pré-visualização,noun,
+"props to","agradecemos a",expression,
+Qatar,Catar,noun,país
+query,consulta,noun,
+quiz,questionário,noun,
+Quote,Citação,noun,Gutenberg
+radio,opção,noun,"No contexto de interface de usuário, usar ""opção"" ou ""botão de opção"". Se for o aparelho eletrônico, usar ""rádio"" normalmente."
+"radio button","botão de opção",noun,"No contexto de interface de usuário. Se for o aparelho eletrônico, usar ""rádio"" normalmente."
+rating,classificação,noun,
+Recovery,Restauração,noun,
+refresh,atualizar,verb,
+register,cadastrar,verb,"ou cadastre-se, se for uma opção para a pessoa se cadastrar no site"
+Register,Cadastrar,verb,"ou Cadastre-se, se for uma opção para a pessoa se cadastrar no site"
+Registration,Cadastro,noun,
+"registration ",cadastro,noun,
+release,lançamento,noun,"ou versão, dependendo do contexto"
+"Remember Me","Manter conexão",expression,"Veja mais: https://br.wordpress.org/team/2021/08/21/inclusao-no-glossario-para-remember-me/"
+removed,removido,verb,
+"reply to","responder a",verb,
+report,relatar,verb,"Também pode ser denunciar em alguns casos."
+report,relatório,noun,"Também pode ser denúncia em alguns casos"
+"Republic of the Congo","República do Congo",noun,país
+request,solicitação,noun,
+request,solicitar,verb,
+required,obrigatório,adjective,
+Requirements,requisitos,noun,
+reset,redefinir,verb,
+Reset,Redefinir,verb,
+"respond to","responder a",verb,
+responsive,responsivo,noun,
+Responsive,responsivo,noun,
+"REST API","API REST",noun,
+rewind,retroceder,verb,
+"Rich Editor","Editor visual",noun,
+Riel,Riel,noun,"Moeda do Camboja"
+Role,função,noun,"Ou papel"
+role,função,noun,"Ou papel"
+Romania,Romênia,noun,país
+"RSS feed","feed RSS",noun,
+Russia,Rússia,noun,país
+Rwanda,Ruanda,noun,país
+"Saint Kitts and Nevis","São Cristóvão e Neves",noun,país
+"Saint Lucia","Santa Lúcia",noun,país
+"Saint Vincent and the Grenadines","São Vicente e Granadinas",noun,país
+Samoa,Samoa,noun,país
+"San Marino","São Marino",noun,país
+Saturday,sábado,noun,"dia de semana"
+"Saudi Arabia","Arábia Saudita",noun,país
+save,salvar,verb,
+saved,salvo,verb,
+"São Tomé and Príncipe","São Tomé e Príncipe",noun,país
+scan,varredura,noun,
+scan,examinar,verb,
+schedule,agenda,noun,
+schedule,agendar,verb,
+scheduled,agendado,adjective,
+Scotland,Escócia,noun,país
+Search,Pesquisa,noun,
+Search,Pesquisar,verb,
+search,pesquisa,noun,
+search,pesquisar,verb,
+"search engine","mecanismo de pesquisa",noun,
+"search for",procurar,expression,"também pode ser ""pesquisar"""
+"secret key","chave secreta",noun,
+Senegal,Senegal,noun,país
+"sensitive data","dados pessoais",expression,"Conforme votação realizada em 05/02/20."
+SEO,SEO,noun,masculino
+September,setembro,noun,"Mês, sempre escrito com letras minúsculas, com exceção em nomes como Outubro Rosa ou no começo de uma frase. Abreviação: ""set"""
+Serbia,Sérvia,noun,país
+"set a password","definir uma senha",expression,
+settings,configurações,noun,
+Seychelles,"Seicheles; Seychelles",noun,país
+shortcode,shortcode,noun,"Sem tradução por enquanto, manter em inglês"
+show,mostrar,verb,
+Showing,exibindo,noun,
+shuffle,embaralhar,verb,
+sidebar,"barra lateral",noun," área de widgets"
+"Sierra Leone","Serra Leoa",noun,país
+"sign up",registrar,verb,"Registro (ou cadastro) inicial feito pelas pessoas para entrar na lista de usuários do site"
+"sign up",registro,noun,"Registro (ou cadastro) inicial feito pelas pessoas para entrar na lista de usuários do site"
+Singapore,Cingapura,noun,país
+"Site Editor","Editor do site",expression,
+"Site Health",Diagnóstico,noun,
+"site map","mapa do site",noun,"diferente de sitemap, escrito junto, que é o arquivo xml"
+sitemap,sitemap,noun,"não traduz (quando é o arquivo xml em SEO)"
+Slovakia,Eslováquia,noun,país
+Slovenia,Eslovênia,noun,país
+slug,slug,noun,masculino
+small,pequeno,adjective,
+small,pequena,adjective,
+"so you cannot","portanto, você não pode",expression,
+software,programa,noun,"ou programas, se for genérico"
+Software,programa,noun,"ou programas, se for genérico"
+"Solomon Islands","Salomão, Ilhas",noun,país
+Somalia,Somália,noun,país
+sorry,,noun,"não traduzir (não pedir desculpas ao usuário)"
+source,origem,noun,
+"South Africa","África do Sul",noun,país
+"South Korea","Coreia do Sul",noun,país
+"South Sudan","Sudão do Sul",noun,país
+Spain,Espanha,noun,país
+spam,spam,noun,"em minúsculas"
+"Sri Lanka","Sri Lanka",noun,país
+start,iniciar,verb,
+"start tag","tag de abertura",noun,"Usado no contexto do código HTML. Contrasta com a tag de fechamento. Consulte o documento ""Anatomia de um elemento HTML"" (https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content#anatomia_de_um_elemento_html)"
+state-of-the-art,avançado,expression,"de vanguarda"
+status,status,noun,
+sticky,fixo,adjective,
+"stretch to fit","aumentar para ajustar ao tamanho",expression,
+subdomain,subdomínio,noun,
+submit,enviar,verb,
+subscribe,assinar,verb,
+subscribed,assinou,verb,
+subscriptions,assinaturas,noun,
+Sudan,Sudão,noun,país
+Sunday,domingo,noun,"dia de semana"
+Suriname,Suriname,noun,país
+Swaziland,Suazilândia,noun,país
+Sweden,Suécia,noun,país
+Switzerland,Suíça,noun,país
+Syria,Síria,noun,país
+tab,aba,noun,
+tag,tag,noun,feminino
+Tajikistan,Tadjiquistão,noun,país
+Tanzania,Tanzânia,noun,país
+target,destino,noun,"Não deve ser traduzido se fizer parte de um link (ex.: target=""_blank"")."
+team,equipe,noun,"Ex: WordPress team - Equipe do WordPress"
+template,modelo,noun,
+"template part","parte de modelo",noun,
+Thailand,Tailândia,noun,país
+"thank you",,expression,"Traduzir somente se agradecer é realmente o objetivo da string:
+'Thank you for downloading the plugin' => 'Agradecemos por baixar o plugin'
+'Thank you! We will get in touch' => 'Retornaremos o contato'"
+"The Bahamas",Bahamas,noun,país
+"theme customizer","personalizador de tema",noun,
+then,então,interjection,
+threshold,limiar,noun,
+throttling,"controle de fluxo",noun,
+Thumbnail,Miniatura,noun,"Dependendo do contexto pode ser aceito ""imagem em miniatura"" ou apenas ""imagem""."
+Thursday,quinta-feira,noun,"dia de semana"
+tile,repetir,verb,
+timezone,"fuso horário",noun,
+toggle,alternar,verb,
+toggle,"botão de alternância",noun,
+Togo,Togo,noun,país
+Tonga,Tonga,noun,país
+trackback,trackback,noun,masculino
+trash,lixeira,noun,"Lixo (objeto excluído).Lixeira (local onde os objetos são excluídos)"
+trigger,gatilho,noun,"Se achar necessário, acrescente o original entre parênteses, mas deixe em português primeiro, assim: ""gatilho (trigger)"". Se ""trigger"" for verbo, use ""ativar""."
+trigger,ativar,verb,"Se for substantivo, use ""gatilho"". Se achar necessário, acrescente o original entre parênteses, mas deixe em português primeiro, assim: ""gatilho (trigger)""."
+"Trinidad and Tobago","Trinidad e Tobago",noun,país
+troubleshoot,"resolver problemas",verb,
+Troubleshooting,"resolução de problemas",noun,
+Tuesday,terça-feira,noun,"dia de semana"
+Tunisia,Tunísia,noun,país
+Turkey,Turquia,noun,país
+Turkmenistan,Turcomenistão,noun,país
+tweak,ajuste,noun,
+Uganda,Uganda,noun,país
+Ukraine,Ucrânia,noun,país
+undelete,restaurar,verb,
+underscore,sublinhado,noun,"Seguindo o padrão da documentação do PHP: https://www.php.net/manual/pt_BR/language.variables.basics.php
+
+Para evitar repetição, também é possível usar ""traço baixo""."
+unfollow,"deixar de seguir",verb,"Igual ao Facebook"
+"United Arab Emirates","Emirados Árabes Unidos",noun,país
+"United Kingdom","Reino Unido",noun,país
+"United States","Estados Unidos",noun,país
+update,atualizar,verb,
+update,atualização,noun,
+updated,atualizado,verb,
+upload,enviar,noun,
+upload,enviar,verb,
+URL,URL,noun,masculino
+url,URL,noun,"Masculino e em letras maiúsculas, porque é uma sigla"
+Uruguay,Uruguai,noun,país
+user,usuário,noun,
+User,usuário,noun,
+username,"nome de usuário",noun,
+users,usuários,noun,
+Users,usuários,noun,
+Uzbekistan,Usbequistão,noun,país
+Vanuatu,Vanuatu,noun,país
+"Vatican City","Cidade do Vaticano",noun,país
+Venezuela,Venezuela,noun,país
+"Venezuelan bol&iacute;var","Bolívar venezuelano",noun,"Moeda da Venezuela"
+Vietnam,Vietnã,noun,país
+"Vietnamese Dong","Dong vietnamita",noun,"Moeda do Vietnã"
+view,visualização,noun,
+view,ver,verb,
+Wales,"País de Gales",noun,país
+Warning,Alerta,noun,
+warning,atenção,interjection,
+webhook,webhook,noun,masculino
+website,site,noun,masculino
+Wednesday,quarta-feira,noun,"dia de semana"
+Welcome,Boas-vindas,noun,
+welcome,boas-vindas,noun,
+"West African CFA Franc","Franco CFA ocidental",noun,"Moeda de Benim, Burquina Fasso, Costa do Marfim, Guiné-Bissau, Mali, Níger, Senegal e Togo"
+"Western Sahara","Saara Ocidental",noun,região
+wide,amplo,noun,"Como em ""Wide line"" (Linha ampla)"
+widget,widget,noun,masculino
+WordPress,WordPress,noun,"Sempre com o ""P"" maiúsculo!"
+workflow,"fluxo de trabalho",noun,
+wrapper,invólucro,noun,
+write,escrever,verb,"No contexto de banco de dados ou manipulação de arquivos, use ""gravar""."
+Yemen,Iêmen,noun,país
+"Yemeni Rial","Rial iemenita",noun,"Moeda do Iêmen"
+"you are about to","você está prestes a",expression,
+"you are not allowed to","sem permissão para",expression,
+"you can just/only",basta,expression,
+"you cannot to","sem permissão para",expression,
+"you must have","deve ter",expression,
+Zambia,Zâmbia,noun,país
+"Zambian Kwacha","Kwacha zambiano",noun,"Moeda da Zâmbia"
+Zimbabwe,Zimbábue,noun,país
+"Zoom Out","Visão ampla",noun,"Modo de visualização do editor apresentado na versão 6.7. "

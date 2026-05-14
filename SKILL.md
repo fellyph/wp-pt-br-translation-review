@@ -22,6 +22,7 @@ Use live sources whenever web access is available. Do not rely only on memory fo
 - Plugin Internationalization Handbook: https://developer.wordpress.org/plugins/internationalization/
 
 Read `references/wordpress-pt-br-translation.md` when you need a compact checklist of the source guidance, when browsing is unavailable, or before making nuanced glossary/style decisions.
+Read `references/pt-br-glossary.md` before using the bundled locale glossary snapshot. Use `references/pt-br-glossary.csv` as an offline fallback for terminology lookup when live glossary access is unavailable.
 Read `references/wordpress-plugin-i18n.md` when translating plugin/theme UI strings, GlotPress suggestions, `.po`, `.pot`, `.mo`, or code-adjacent text, or when reviewing plugin internationalization quality.
 
 ## Source Authority
@@ -29,7 +30,7 @@ Read `references/wordpress-plugin-i18n.md` when translating plugin/theme UI stri
 Resolve decisions in this order:
 
 1. The English source content for facts, structure, links, version numbers, code, dates, names, source strings, and string context.
-2. The live pt-BR glossary and Brazilian translation best practices for terminology and localization choices.
+2. The live pt-BR glossary, project glossaries, and Brazilian translation best practices for terminology and localization choices. If live lookup is unavailable, use the bundled `references/pt-br-glossary.csv` snapshot as a fallback.
 3. The WordPress Plugin Internationalization Handbook for gettext, text domains, placeholders, plurals, context, PO/POT/MO handling, and i18n security.
 4. The WordPress Documentation Style Guide and Writing Tips for clarity, style, voice, tone, and global-audience guidance.
 5. External references only when the WordPress sources do not answer the issue.
@@ -45,7 +46,7 @@ If the glossary conflicts with the local context, use the contextually correct t
 5. Exclude page chrome from web pages: navigation, sidebars, subscription boxes, share widgets, comments, post navigation, footers, and site resource lists unless the user explicitly asks for them.
 6. If a URL redirects or resolves to an index page, locate the intended post by title, date, author, and visible permalink. State the fallback used.
 7. Identify source terms that need glossary verification before translating: WordPress product terms, UI terms, developer/API terms, release terms, acronyms, feature names, experiment names, recurring nouns, and plugin-specific terms.
-8. Check relevant terms against the live pt-BR glossary first. For plugins/themes, also check any project glossary when available. Record checked terms and any missing or context-sensitive terms.
+8. Check relevant terms against the live pt-BR glossary first. For plugins/themes, also check any project glossary when available. If live lookup is unavailable, search the bundled glossary CSV. Record checked terms and any missing or context-sensitive terms.
 9. Translate into Brazilian Portuguese with clear, concise, informal-but-polite wording. Translate meaning organically rather than word by word.
 10. Review the result against glossary, style, tone, inclusivity, formatting, source fidelity, placeholders, plural behavior, context, and i18n safety.
 
