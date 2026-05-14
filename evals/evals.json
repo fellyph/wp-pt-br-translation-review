@@ -1,0 +1,44 @@
+{
+  "skill_name": "wp-pt-br-translation-review",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Use $wp-pt-br-translation-review para traduzir e revisar para portugues do Brasil o post Make WordPress: https://make.wordpress.org/ai/2026/05/11/whats-new-in-ai-0-9-0/. Se esse slug redirecionar ou nao resolver, use a listagem canonica de make.wordpress.org/ai e localize o post \"What's new in AI 0.9.0 (7 MAY 2026)?\" publicado em 11 de maio de 2026.",
+      "expected_output": "Uma traducao completa em pt-BR do artigo, seguida de uma revisao de qualidade com termos de glossario, sugestoes e observacoes sobre qualquer fallback de URL.",
+      "files": [],
+      "expectations": [
+        "A resposta usa as secoes: Traducao sugerida, Revisao de qualidade, Termos verificados no glossario, Sugestoes de melhoria, Observacoes ou bloqueios.",
+        "A traducao inclui o conteudo principal do post sobre AI 0.9.0 e exclui navegacao, sidebars, comentarios, widgets de compartilhamento e rodape.",
+        "Comandos como `wp ai alt-text generate`, versoes como 0.9.0, nomes como WP-CLI, WordPress, Gutenberg e handles/perfis sao preservados.",
+        "A revisao menciona termos conferidos ou marcados como nao conferidos no glossario pt-BR.",
+        "A resposta informa claramente se precisou usar a listagem canonica como fallback."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Use $wp-pt-br-translation-review para traduzir e revisar para portugues do Brasil este post do Make WordPress Core: https://make.wordpress.org/core/2026/03/31/extending-the-7-0-cycle/",
+      "expected_output": "Uma traducao completa em pt-BR do artigo Extending the 7.0 Cycle, com auditoria de glossario, estilo e fidelidade ao texto original.",
+      "files": [],
+      "expectations": [
+        "A resposta traduz apenas o post principal e nao traduz os comentarios abaixo do artigo.",
+        "A traducao preserva versoes, links, nomes como WordPress.com, Gutenberg, WebSockets, HTTP polling, metaboxes e referencias a APIs ou pacotes.",
+        "A revisao identifica termos tecnicos relevantes para o glossario, como Core, capability, transients, postmeta, metaboxes, plugin developers e collaborative editing.",
+        "O tom em pt-BR e claro, natural, conciso e adequado a comunicados da comunidade WordPress.",
+        "A resposta nao adiciona informacoes sobre o ciclo 7.0 que nao estejam no texto-fonte."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Use $wp-pt-br-translation-review para traduzir e revisar para portugues do Brasil este post de documentacao: https://make.wordpress.org/docs/2025/07/24/proposal-responsible-ai-workflow-for-creating-new-documentation-for-wordpress-6-9/",
+      "expected_output": "Uma traducao completa em pt-BR da proposta de fluxo responsavel de IA, com revisao explicita de tom, estilo, inclusividade, glossario e preservacao de links.",
+      "files": [],
+      "expectations": [
+        "A resposta preserva o carater de proposta do texto e nao transforma sugestoes em decisoes aprovadas.",
+        "A traducao preserva links, nomes de equipes, versoes, referencias a IA, WordPress 6.9 e documentacao.",
+        "A revisao avalia alinhamento com o Style Guide, incluindo clareza, tom, publico global e linguagem inclusiva.",
+        "A resposta aponta termos ausentes ou sensiveis do glossario quando aplicavel.",
+        "A estrutura em Markdown continua publicavel e sem quebras de links, listas ou headings."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tradução WordPress pt-BR"
+  short_description: "Traduz e revisa posts WordPress em pt-BR"
+  brand_color: "#3858E9"
+  default_prompt: "Use $wp-pt-br-translation-review para traduzir e revisar este post Make WordPress para pt-BR: [URL]"
+policy:
+  allow_implicit_invocation: true
