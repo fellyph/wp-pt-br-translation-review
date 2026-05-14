@@ -39,6 +39,19 @@
         "A resposta aponta termos ausentes ou sensiveis do glossario quando aplicavel.",
         "A estrutura em Markdown continua publicavel e sem quebras de links, listas ou headings."
       ]
+    },
+    {
+      "id": 4,
+      "prompt": "Use $wp-pt-br-translation-review para traduzir e revisar estas strings de plugin para portugues do Brasil, preservando formato PO, placeholders e contexto:\n\n#: includes/admin.php:42\nmsgctxt \"settings page button\"\nmsgid \"Save settings\"\nmsgstr \"\"\n\n#: includes/notices.php:88\n#. translators: %s: plugin name.\nmsgid \"%s was installed successfully.\"\nmsgstr \"\"\n\n#: includes/comments.php:121\n#. translators: %d: number of comments.\nmsgid \"%d comment needs review\"\nmsgid_plural \"%d comments need review\"\nmsgstr[0] \"\"\nmsgstr[1] \"\"\n\n#: includes/links.php:55\nmsgid \"Please <a href=\\\"https://wordpress.org/plugins/\\\">review the plugin directory</a>.\"\nmsgstr \"\"",
+      "expected_output": "Traducoes em pt-BR para as strings de plugin em formato PO ou tabela, com auditoria de placeholders, contexto, plural e seguranca de HTML/links.",
+      "files": [],
+      "expectations": [
+        "A resposta preserva msgid, msgid_plural, msgctxt, referencias, comentarios de tradutor e placeholders.",
+        "A traducao usa verbo no infinitivo para o botao \"Save settings\".",
+        "A traducao evita \"com sucesso\" quando nao acrescenta significado, conforme boas praticas brasileiras.",
+        "A revisao aponta que a string com link embutido poderia ser melhor internacionalizada com placeholders para a URL/HTML.",
+        "A resposta menciona glossario, contexto, plurais e riscos de alterar HTML ou comportamento."
+      ]
     }
   ]
 }

@@ -10,13 +10,15 @@ This is a compact fallback reference. Live source links remain authoritative.
 - GSoD 2020 style guide report: https://make.wordpress.org/docs/2021/03/07/wordpress-documentation-style-guide-google-season-of-docs-2020-project-report-tacitonic/
 - pt-BR glossary: https://translate.wordpress.org/locale/pt-br/default/glossary/
 - Brazilian translation best practices: https://br.wordpress.org/team/handbook/traducao/boas-praticas/
+- Plugin Internationalization Handbook: https://developer.wordpress.org/plugins/internationalization/
 
 ## Decision Hierarchy
 
 1. Keep the source post authoritative for facts, structure, dates, links, code, names, and scope.
 2. Use the pt-BR glossary and Brazilian translation best practices for terminology and localization.
 3. Use the WordPress Documentation Style Guide for writing quality: clarity, consistency, style, tone, inclusivity, and global-audience guidance.
-4. Use external style references only when the WordPress sources do not answer the issue.
+4. For plugin/theme strings, use the Plugin Internationalization Handbook for gettext, text domains, placeholders, plurals, context, PO/POT/MO handling, and i18n security.
+5. Use external style references only when the WordPress sources do not answer the issue.
 
 ## Brazilian Translation Best Practices
 
@@ -33,6 +35,7 @@ This is a compact fallback reference. Live source links remain authoritative.
 - Respect brand spelling. Do not translate plugin names, theme names, project names, package names, handles, commands, or code identifiers.
 - Be careful with capitalization, gendered language, punctuation in numbers, dates, time formats, ambiguity, and unnecessary words.
 - The glossary is very important, but context can justify an exception. Explain exceptions.
+- For plugin and theme translation details, read `wordpress-plugin-i18n.md` before translating `.po`/`.pot`, GlotPress suggestions, or source strings.
 
 ## WordPress Documentation Style Guidance
 

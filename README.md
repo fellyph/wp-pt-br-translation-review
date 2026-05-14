@@ -1,13 +1,15 @@
 # wp-pt-br-translation-review
 
-Skill para traduzir e revisar posts do ecossistema WordPress para português do Brasil, com foco em posts do Make WordPress, WordPress Core, Docs, AI, plugins, temas, handbooks, releases e comunicados da comunidade.
+Skill para traduzir e revisar conteúdo do ecossistema WordPress para português do Brasil, com foco em posts do Make WordPress, WordPress Core, Docs, AI, strings de plugins e temas, GlotPress, PO/POT, handbooks, releases e comunicados da comunidade.
 
 Ela orienta o agente a:
 
 * Buscar a URL informada e extrair apenas o corpo editorial do post.
+* Traduzir strings de plugins/temas, sugestões do GlotPress e trechos `.po`/`.pot`.
 * Traduzir o conteúdo para pt-BR com tom claro, natural e adequado à comunidade brasileira.
 * Conferir terminologia com o glossário pt-BR e boas práticas brasileiras de tradução.
-* Preservar links, comandos, código, placeholders, versões, identificadores técnicos, handles e hashtags.
+* Preservar links, comandos, código, placeholders, plurais, contexto, versões, identificadores técnicos, handles e hashtags.
+* Revisar riscos de i18n em strings de plugins, como placeholders quebrados, text domain, contexto, plurais e HTML.
 * Produzir uma revisão com glossário, estilo, sugestões e bloqueios.
 
 ## Estrutura
@@ -20,6 +22,7 @@ wp-pt-br-translation-review/
 ├── evals/
 │   └── evals.json
 └── references/
+    ├── wordpress-plugin-i18n.md
     └── wordpress-pt-br-translation.md
 ```
 
@@ -45,6 +48,12 @@ Exemplo de prompt:
 Use $wp-pt-br-translation-review para traduzir e revisar este post Make WordPress para pt-BR: https://make.wordpress.org/core/example/
 ```
 
+```text
+Use $wp-pt-br-translation-review para traduzir estas strings de plugin para pt-BR e verificar placeholders:
+msgid "Save settings"
+msgstr ""
+```
+
 ## Fontes de referência
 
 A skill usa fontes ao vivo quando disponíveis e mantém um resumo compacto em `references/wordpress-pt-br-translation.md` para fallback:
@@ -54,11 +63,13 @@ A skill usa fontes ao vivo quando disponíveis e mantém um resumo compacto em `
 * Relatório do projeto GSoD 2020 sobre o style guide
 * Glossário pt-BR do translate.wordpress.org
 * Boas práticas brasileiras de tradução
+* Plugin Internationalization Handbook
 
 ## Evals
 
-Os prompts de avaliação ficam em `evals/evals.json` e cobrem três posts reais do Make WordPress:
+Os prompts de avaliação ficam em `evals/evals.json` e cobrem posts reais do Make WordPress e um cenário de tradução de plugin:
 
 * AI 0.9.0
 * Extensão do ciclo da versão 7.0
 * Fluxo responsável de IA para documentação do WordPress 6.9
+* Tradução/revisão de strings de plugin com placeholders, contexto e plurais
